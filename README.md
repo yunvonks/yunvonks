@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yunvonks
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in development website
+- 🌱 I’m currently learning website development & design
 - 📫 How to reach me ...on https://fakhrurpedia.com/
 
 <!---
