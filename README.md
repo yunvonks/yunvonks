@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yunvonks
 - 👀 I’m interested in development website
 - 🌱 I’m currently learning website development & design
-- 📫 How to reach me ...on https://fakhrurpedia.com/
+- 📫 How to reach me ...on https://fakhrurpedia.com/ and also work on https://spesification.com
 
 <!---
 yunvonks/yunvonks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
